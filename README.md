@@ -16,7 +16,7 @@
 3.) Introduction to Processing
 
 - Processing is an open source programming language and environment (see the wiki for more info). The core of the language visual-centric. The programs that you will create become like tiny little worlds unto themselves. They have intricate inner workings and underlying principles that allow the objects in these worlds to interact. These principles and inner workings will be defined by you. Think of yourself as the master of your universe; each program you create will add another planet to that universe.
--Students will learn the basics of processing. They will also become familiar with how to implement much more difficult programing tasks such as object oriented design. Students will become familiar with 2-Dimensional and 3-Dimensional graphics creation, as well as pixel manipulation. There are many projects that could be listed here, but they will not be. There is a multitude of projects at our disposal, but a selection will be made based upon the skills, knowledge, and progression of each class. The projects will be tailored to the skill of the class.
+-Students will learn the basics of processing. They will also become familiar with how to implement much more difficult programing tasks such as object oriented design. Students will become familiar with 2-Dimensional and 3-Dimensional graphics creation, as well as pixel manipulation. There are many projects that could be listed here, but they will not be. There is a multitude of projects at our disposal, but a selection will be made based upon the skills, knowledge, and progression of each class. The projects will be tailored to the skill of the class. 
 ***
 
 ##Curriculum Timeline
