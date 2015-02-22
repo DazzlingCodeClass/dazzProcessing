@@ -51,7 +51,7 @@
     - [Reference Page](https://processing.org/reference/)
         - if you have a question about the language, check here first
     - [Download](https://processing.org/download/)
-        -select the "no donation" option, unless you feel motivated to donate
+        - select the "no donation" option, unless you feel motivated to donate
 
 - Github
     - [Home Page](https://github.com/)
