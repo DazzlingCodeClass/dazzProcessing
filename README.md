@@ -24,18 +24,10 @@
 ***
 | Class Session | Topics Covered                                                                        |
 |:--------------|:--------------------------------------------------------------------------------------|
-| One           | class intro, intro to github, github account creation, discussion of programming      |
-| Two           | variables, data types, functions(briefly), operators vs operands, order of operations |
-| Three         | functions, scope                                                                      |
-| Four          | recap of previously covered concepts                                                  |
-| Five          | conditionals, booleans, assignment vs. equality, if and else if statements            |
-| Six           | switch statements, recap                                                              |
-| Seven         | for loops, while loops                                                                |
-| Eight         | arrays, using loops and arrays                                                        |
-| Nine          | recap of previously covered concepts                                                  |
-| Ten           | classes, objects                                                                      |
-| Eleven        | classes continued, objects continued                                                  |
-| Twelve        | recap of all previously learned concepts                                              |
+| One           | introductions, processing up and running, creating a scene, making shapes, moving shapes |
+| Two           | conditionals, mouse/keyboard input, advanced color manipulation, bounce borders|
+| Three         | functions, wrap borders, loops                                                        |
+| Four          | |
 
 ***
 
